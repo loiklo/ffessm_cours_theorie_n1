@@ -56,7 +56,7 @@ jobs:
 
       - name: Copier les ressources
         run: |
-          cp -r images dist/images
+          cp -r medias dist/medias
 
       - name: Envoyer l'artefact GitHub Pages
         uses: actions/upload-pages-artifact@v4
