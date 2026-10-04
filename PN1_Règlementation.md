@@ -249,7 +249,7 @@ _footer: 'FFESSM > Documents > En France > Dans le monde > **Formation** > Prér
 _footer: 'FFESSM > Documents > En France > Dans le monde > **Formation** > Prérogatives > Quiz > Responsabilité > Mémo'
 -->
 ## Niveau 1 / PE20
-Le brevet du Niveau 1 (FFESSM) est obtenu lorsque toutes les compétences (MFT) qui le compose sont validées sous 15 mois.
+Le brevet du Niveau 1 (FFESSM) est obtenu lorsque toutes les compétences (MFT) qui le composent sont validées sous 15 mois.
 * Si N1 en piscine, 4 plongées en milieu naturel dans les 12 mois
 * Plongeur Niveau 1 (FFESSM) == Plongeur PE20 (Code du Sport)
   - PE = **P**longeur **E**ncadrée (PA = **P**longeur **A**utonome)
@@ -293,7 +293,7 @@ _footer: 'FFESSM > Documents > En France > Dans le monde > Formation > **Prérog
 ## La palanquée
 * Groupe de plongeurs qui:
   * plongent ensemble et
-  - suivent les mêmes caractéristique de:
+  * suivent les mêmes caractéristiques de:
     * durée
     * profondeur
     * trajet
@@ -336,15 +336,11 @@ _footer: 'FFESSM > Documents > En France > Dans le monde > Formation > Prérogat
 -->
 ## Quiz
 
-*Mon pote Niveau 2 (**P**longeur **A**utonome, 40m), 500 plongées, permis bateau, RIFA-P, me propose de plonger en toute sécurité avec lui.*
+*Mon pote Niveau 2 (**P**longeur **A**utonome, 20m), 500 plongées, permis bateau, RIFA-P, me propose de plonger en toute sécurité avec lui.*
 
-* **Question:**
+* **Question:** *Quelle sera la limite de profondeur de notre plongée?*
 
-*Quelle sera la limite de profondeur de notre plongée?*
-
-* **Réponse**:
-
-Piège! Un N1 ne peut pas plonger seul avec un N2. Un N2, même avec 2000 plongées et un brevet de SuperMan, n'est pas un GP!
+* **Réponse**: *Piège! Un N1 ne peut pas plonger sans GP. Un N2, même avec 2000 plongées et un brevet de SuperMan, n'est pas un GP!*
 
 ---
 <!--

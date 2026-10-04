@@ -1,3 +1,3 @@
-- [Présenter en ligne](./)
-- [Télécharger le PDF](./PN1_Règlementation.pdf)
-- [Télécharger le PowerPoint](./PN1_Règlementation.pptx)
+- [Présenter en ligne](https://loiklo.github.io/ffessm_cours_theorie_n1/)
+- [Télécharger le PDF](https://loiklo.github.io/ffessm_cours_theorie_n1/PN1_R%C3%A8glementation.pdf)
+- [Télécharger le PowerPoint](https://loiklo.github.io/ffessm_cours_theorie_n1/PN1_R%C3%A8glementation.pptx)
