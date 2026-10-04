@@ -41,7 +41,7 @@ Stéphane Marques
 
 ---
 <!--
-_footer: '**FFESSM > Documents > En France > Dans le monde > Formation > Prérogatives > Quiz > Responsabilité > Mémo**'
+_footer: '**FFESSM > Documents > En France > Dans le monde > Formation > Prérogatives > Quiz > Responsabilités > Mémo**'
 -->
 ## Sommaire
 
@@ -50,7 +50,7 @@ _footer: '**FFESSM > Documents > En France > Dans le monde > Formation > Prérog
 ---
 <!--
 _backgroundColor: black
-_footer: '**FFESSM** > Documents > En France > Dans le monde > Formation > Prérogatives > Quiz > Responsabilité > Mémo'
+_footer: '**FFESSM** > Documents > En France > Dans le monde > Formation > Prérogatives > Quiz > Responsabilités > Mémo'
 -->
 
 # **La FFESSM**
@@ -58,7 +58,7 @@ _footer: '**FFESSM** > Documents > En France > Dans le monde > Formation > Prér
 
 ---
 <!--
-_footer: '**FFESSM** > Documents > En France > Dans le monde > Formation > Prérogatives > Quiz > Responsabilité > Mémo'
+_footer: '**FFESSM** > Documents > En France > Dans le monde > Formation > Prérogatives > Quiz > Responsabilités > Mémo'
 -->
 ![bg left](media/logo_ffessm.png)
 ## La FFESSM
@@ -71,7 +71,7 @@ _footer: '**FFESSM** > Documents > En France > Dans le monde > Formation > Prér
 
 ---
 <!--
-_footer: '**FFESSM** > Documents > En France > Dans le monde > Formation > Prérogatives > Quiz > Responsabilité > Mémo'
+_footer: '**FFESSM** > Documents > En France > Dans le monde > Formation > Prérogatives > Quiz > Responsabilités > Mémo'
 -->
 ![bg right fit](media/ffessm_orga.png)
 ## FFESSM
@@ -84,7 +84,7 @@ _footer: '**FFESSM** > Documents > En France > Dans le monde > Formation > Prér
 ---
 <!--
 _backgroundColor: black
-_footer: 'FFESSM > **Documents** > En France > Dans le monde > Formation > Prérogatives > Quiz > Responsabilité > Mémo'
+_footer: 'FFESSM > **Documents** > En France > Dans le monde > Formation > Prérogatives > Quiz > Responsabilités > Mémo'
 -->
 
 # **Les documents**
@@ -93,7 +93,7 @@ _footer: 'FFESSM > **Documents** > En France > Dans le monde > Formation > Prér
 
 ---
 <!--
-_footer: 'FFESSM > **Documents** > En France > Dans le monde > Formation > Prérogatives > Quiz > Responsabilité > Mémo'
+_footer: 'FFESSM > **Documents** > En France > Dans le monde > Formation > Prérogatives > Quiz > Responsabilités > Mémo'
 -->
 ![bg right fit](media/poulpe_documents.png)
 
@@ -107,7 +107,7 @@ _footer: 'FFESSM > **Documents** > En France > Dans le monde > Formation > Prér
 
 ---
 <!--
-_footer: 'FFESSM > **Documents** > En France > Dans le monde > Formation > Prérogatives > Quiz > Responsabilité > Mémo'
+_footer: 'FFESSM > **Documents** > En France > Dans le monde > Formation > Prérogatives > Quiz > Responsabilités > Mémo'
 -->
 ## Document: La licence / assurance
 - Valable du 01/09 au 31/12 de l'année suivante
@@ -116,7 +116,7 @@ _footer: 'FFESSM > **Documents** > En France > Dans le monde > Formation > Prér
 * La version papier fonctionne sans avoir besoin d'Internet 👍
 ---
 <!--
-_footer: 'FFESSM > **Documents** > En France > Dans le monde > Formation > Prérogatives > Quiz > Responsabilité > Mémo'
+_footer: 'FFESSM > **Documents** > En France > Dans le monde > Formation > Prérogatives > Quiz > Responsabilités > Mémo'
 -->
 ![bg right fit](media/CACI.png)
 
@@ -127,7 +127,7 @@ _footer: 'FFESSM > **Documents** > En France > Dans le monde > Formation > Prér
 
 ---
 <!--
-_footer: 'FFESSM > **Documents** > En France > Dans le monde > Formation > Prérogatives > Quiz > Responsabilité > Mémo'
+_footer: 'FFESSM > **Documents** > En France > Dans le monde > Formation > Prérogatives > Quiz > Responsabilités > Mémo'
 -->
 ## Document: La carte de niveau
 
@@ -138,7 +138,7 @@ _footer: 'FFESSM > **Documents** > En France > Dans le monde > Formation > Prér
 
 ---
 <!--
-_footer: 'FFESSM > **Documents** > En France > Dans le monde > Formation > Prérogatives > Quiz > Responsabilité > Mémo'
+_footer: 'FFESSM > **Documents** > En France > Dans le monde > Formation > Prérogatives > Quiz > Responsabilités > Mémo'
 -->
 ## Document: Le passeport
 - Permet de consacrer la validation des compétences sur toute la vie d'un plongeur
@@ -147,7 +147,7 @@ _footer: 'FFESSM > **Documents** > En France > Dans le monde > Formation > Prér
 
 ---
 <!--
-_footer: 'FFESSM > **Documents** > En France > Dans le monde > Formation > Prérogatives > Quiz > Responsabilité > Mémo'
+_footer: 'FFESSM > **Documents** > En France > Dans le monde > Formation > Prérogatives > Quiz > Responsabilités > Mémo'
 -->
 ## Document: Le carnet de plongée
 - Permet de consigner les plongées
@@ -157,7 +157,7 @@ _footer: 'FFESSM > **Documents** > En France > Dans le monde > Formation > Prér
 ---
 <!--
 _backgroundColor: black
-_footer: 'FFESSM > Documents > **En France** > Dans le monde > Formation > Prérogatives > Quiz > Responsabilité > Mémo'
+_footer: 'FFESSM > Documents > **En France** > Dans le monde > Formation > Prérogatives > Quiz > Responsabilités > Mémo'
 -->
 
 # **La règlementation en France**
@@ -165,7 +165,7 @@ _footer: 'FFESSM > Documents > **En France** > Dans le monde > Formation > Prér
 
 ---
 <!--
-_footer: 'FFESSM > Documents > **En France** > Dans le monde > Formation > Prérogatives > Quiz > Responsabilité > Mémo'
+_footer: 'FFESSM > Documents > **En France** > Dans le monde > Formation > Prérogatives > Quiz > Responsabilités > Mémo'
 -->
 ## En France, la plongée est libre, mais...
 - Exclusion des garanties classiques
@@ -173,7 +173,7 @@ _footer: 'FFESSM > Documents > **En France** > Dans le monde > Formation > Prér
 
 ---
 <!--
-_footer: 'FFESSM > Documents > **En France** > Dans le monde > Formation > Prérogatives > Quiz > Responsabilité > Mémo'
+_footer: 'FFESSM > Documents > **En France** > Dans le monde > Formation > Prérogatives > Quiz > Responsabilités > Mémo'
 -->
 ## Plonger en France
 Les règles à respecter sont:
@@ -187,7 +187,7 @@ Les règles à respecter sont:
 ---
 <!--
 _backgroundColor: black
-_footer: 'FFESSM > Documents > En France > **Dans le monde** > Formation > Prérogatives > Quiz > Responsabilité > Mémo'
+_footer: 'FFESSM > Documents > En France > **Dans le monde** > Formation > Prérogatives > Quiz > Responsabilités > Mémo'
 
 -->
 
@@ -196,14 +196,14 @@ _footer: 'FFESSM > Documents > En France > **Dans le monde** > Formation > Prér
 
 ---
 <!--
-_footer: 'FFESSM > Documents > En France > **Dans le monde** > Formation > Prérogatives > Quiz > Responsabilité > Mémo'
+_footer: 'FFESSM > Documents > En France > **Dans le monde** > Formation > Prérogatives > Quiz > Responsabilités > Mémo'
 -->
 ## Plonger en dehors de la France (et au delà...)
 ![bg 70%](media/mars.png)
 
 ---
 <!--
-_footer: 'FFESSM > Documents > En France > **Dans le monde** > Formation > Prérogatives > Quiz > Responsabilité > Mémo'
+_footer: 'FFESSM > Documents > En France > **Dans le monde** > Formation > Prérogatives > Quiz > Responsabilités > Mémo'
 -->
 ![bg left auto](media/cmas.png)
 ## CMAS
@@ -215,7 +215,7 @@ _footer: 'FFESSM > Documents > En France > **Dans le monde** > Formation > Prér
 
 ---
 <!--
-_footer: 'FFESSM > Documents > En France > **Dans le monde** > Formation > Prérogatives > Quiz > Responsabilité > Mémo'
+_footer: 'FFESSM > Documents > En France > **Dans le monde** > Formation > Prérogatives > Quiz > Responsabilités > Mémo'
 -->
 ## Plongée en dehors de France
 Les règles à respecter sont comme en France:
@@ -228,7 +228,7 @@ Les règles à respecter sont comme en France:
 ---
 <!--
 _backgroundColor: black
-_footer: 'FFESSM > Documents > En France > Dans le monde > **Formation** > Prérogatives > Quiz > Responsabilité > Mémo'
+_footer: 'FFESSM > Documents > En France > Dans le monde > **Formation** > Prérogatives > Quiz > Responsabilités > Mémo'
 -->
 
 # **La formation N1**
@@ -236,7 +236,7 @@ _footer: 'FFESSM > Documents > En France > Dans le monde > **Formation** > Prér
 
 ---
 <!--
-_footer: 'FFESSM > Documents > En France > Dans le monde > **Formation** > Prérogatives > Quiz > Responsabilité > Mémo'
+_footer: 'FFESSM > Documents > En France > Dans le monde > **Formation** > Prérogatives > Quiz > Responsabilités > Mémo'
 -->
 ![bg right fit](media/baby.png)
 ## Conditions d'accès à la formation "Prépa N1"
@@ -246,7 +246,7 @@ _footer: 'FFESSM > Documents > En France > Dans le monde > **Formation** > Prér
 
 ---
 <!--
-_footer: 'FFESSM > Documents > En France > Dans le monde > **Formation** > Prérogatives > Quiz > Responsabilité > Mémo'
+_footer: 'FFESSM > Documents > En France > Dans le monde > **Formation** > Prérogatives > Quiz > Responsabilités > Mémo'
 -->
 ## Niveau 1 / PE20
 Le brevet du Niveau 1 (FFESSM) est obtenu lorsque toutes les compétences (MFT) qui le composent sont validées sous 15 mois.
@@ -261,7 +261,7 @@ Le brevet du Niveau 1 (FFESSM) est obtenu lorsque toutes les compétences (MFT) 
 ---
 <!--
 _backgroundColor: black
-_footer: 'FFESSM > Documents > En France > Dans le monde > Formation > **Prérogatives** > Quiz > Responsabilité > Mémo'
+_footer: 'FFESSM > Documents > En France > Dans le monde > Formation > **Prérogatives** > Quiz > Responsabilités > Mémo'
 -->
 
 # **Les prérogatives**
@@ -269,7 +269,7 @@ _footer: 'FFESSM > Documents > En France > Dans le monde > Formation > **Prérog
 
 ---
 <!--
-_footer: 'FFESSM > Documents > En France > Dans le monde > Formation > **Prérogatives** > Quiz > Responsabilité > Mémo'
+_footer: 'FFESSM > Documents > En France > Dans le monde > Formation > **Prérogatives** > Quiz > Responsabilités > Mémo'
 -->
 ## Prérogatives du Niveau 1 (PE20)
 "Avec mon PE20, je peux
@@ -280,14 +280,14 @@ _footer: 'FFESSM > Documents > En France > Dans le monde > Formation > **Prérog
 
 ---
 <!--
-_footer: 'FFESSM > Documents > En France > Dans le monde > Formation > **Prérogatives** > Quiz > Responsabilité > Mémo'
+_footer: 'FFESSM > Documents > En France > Dans le monde > Formation > **Prérogatives** > Quiz > Responsabilités > Mémo'
 -->
 ## Jusqu'à 20m (Code du Sport, c'est la Loi)
 ![bg 70%](media/20m.png)
 
 ---
 <!--
-_footer: 'FFESSM > Documents > En France > Dans le monde > Formation > **Prérogatives** > Quiz > Responsabilité > Mémo'
+_footer: 'FFESSM > Documents > En France > Dans le monde > Formation > **Prérogatives** > Quiz > Responsabilités > Mémo'
 -->
 ![bg right fit](media/palanquée.png)
 ## La palanquée
@@ -300,7 +300,7 @@ _footer: 'FFESSM > Documents > En France > Dans le monde > Formation > **Prérog
 
 ---
 <!--
-_footer: 'FFESSM > Documents > En France > Dans le monde > Formation > **Prérogatives** > Quiz > Responsabilité > Mémo'
+_footer: 'FFESSM > Documents > En France > Dans le monde > Formation > **Prérogatives** > Quiz > Responsabilités > Mémo'
 -->
 ![bg right fit](media/gp.png)
 
@@ -312,7 +312,7 @@ _footer: 'FFESSM > Documents > En France > Dans le monde > Formation > **Prérog
 
 ---
 <!--
-_footer: 'FFESSM > Documents > En France > Dans le monde > Formation > **Prérogatives** > Quiz > Responsabilité > Mémo'
+_footer: 'FFESSM > Documents > En France > Dans le monde > Formation > **Prérogatives** > Quiz > Responsabilités > Mémo'
 -->
 ![bg left fit](media/dp.png)
 
@@ -324,7 +324,7 @@ _footer: 'FFESSM > Documents > En France > Dans le monde > Formation > **Prérog
 ---
 <!--
 _backgroundColor: black
-_footer: 'FFESSM > Documents > En France > Dans le monde > Formation > Prérogatives > **Quiz** > Responsabilité > Mémo'
+_footer: 'FFESSM > Documents > En France > Dans le monde > Formation > Prérogatives > **Quiz** > Responsabilités > Mémo'
 -->
 
 # **Quiz**
@@ -332,7 +332,7 @@ _footer: 'FFESSM > Documents > En France > Dans le monde > Formation > Prérogat
 
 ---
 <!--
-_footer: 'FFESSM > Documents > En France > Dans le monde > Formation > Prérogatives > **Quiz** > Responsabilité > Mémo'
+_footer: 'FFESSM > Documents > En France > Dans le monde > Formation > Prérogatives > **Quiz** > Responsabilités > Mémo'
 -->
 ## Quiz
 
@@ -344,7 +344,7 @@ _footer: 'FFESSM > Documents > En France > Dans le monde > Formation > Prérogat
 
 ---
 <!--
-_footer: 'FFESSM > Documents > En France > Dans le monde > Formation > Prérogatives > **Quiz** > Responsabilité > Mémo'
+_footer: 'FFESSM > Documents > En France > Dans le monde > Formation > Prérogatives > **Quiz** > Responsabilités > Mémo'
 -->
 ## Quiz
 **Question**:
@@ -353,7 +353,7 @@ Quels sont les effectifs et la profondeur maximum d'une palanquée qui comporte 
 
 ---
 <!--
-_footer: 'FFESSM > Documents > En France > Dans le monde > Formation > Prérogatives > **Quiz** > Responsabilité > Mémo'
+_footer: 'FFESSM > Documents > En France > Dans le monde > Formation > Prérogatives > **Quiz** > Responsabilités > Mémo'
 -->
 ## Quiz: réponse
 ![bg](media/palanquée_full.png)
@@ -361,7 +361,7 @@ _footer: 'FFESSM > Documents > En France > Dans le monde > Formation > Prérogat
 ---
 <!--
 _backgroundColor: black
-_footer: 'FFESSM > Documents > En France > Dans le monde > Formation > Prérogatives > **Quiz** > Responsabilité > Mémo'
+_footer: 'FFESSM > Documents > En France > Dans le monde > Formation > Prérogatives > **Quiz** > Responsabilités > Mémo'
 -->
 
 # **Les responsabilités du Plongeur Niveau 1**
@@ -371,7 +371,7 @@ Oncle Ben
 
 ---
 <!--
-_footer: 'FFESSM > Documents > En France > Dans le monde > Formation > Prérogatives > Quiz > **Responsabilité** > Mémo'
+_footer: 'FFESSM > Documents > En France > Dans le monde > Formation > Prérogatives > Quiz > **Responsabilités** > Mémo'
 -->
 # Responsabilités du N1
 ## "Savoir se comporter en palanquée"
@@ -385,7 +385,7 @@ _footer: 'FFESSM > Documents > En France > Dans le monde > Formation > Prérogat
 ---
 <!--
 _backgroundColor: black
-_footer: 'FFESSM > Documents > En France > Dans le monde > Formation > Prérogatives > Quiz > Responsabilité > **Mémo**'
+_footer: 'FFESSM > Documents > En France > Dans le monde > Formation > Prérogatives > Quiz > Responsabilités > **Mémo**'
 -->
 
 # **Mémo**
@@ -393,7 +393,7 @@ _footer: 'FFESSM > Documents > En France > Dans le monde > Formation > Prérogat
 
 ---
 <!--
-_footer: 'FFESSM > Documents > En France > Dans le monde > Formation > Prérogatives > Quiz > Responsabilité > **Mémo**'
+_footer: 'FFESSM > Documents > En France > Dans le monde > Formation > Prérogatives > Quiz > Responsabilités > **Mémo**'
 -->
 ## Mémo / Ce qu'il faut retenir
 - Le Niveau 1, c'est *"Savoir se comporter en palanquée"*
