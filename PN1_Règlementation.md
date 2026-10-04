@@ -31,7 +31,7 @@ style: |
 ---
 <!--
 _backgroundColor: black
-_footer: v0.0.01 - 05/10/2026 - CC BY-NC-SA
+_footer: v1.0 - 05/10/2026 - CC BY-NC-SA
 -->
 
 # **Règlementation N1**
