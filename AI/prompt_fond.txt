@@ -1,0 +1,5 @@
+Génère une image qui servira de fond pour une présentation powerpoint.
+
+- Couleur dominante est le bleu utilisé par la "FFESSM"
+- De chaque coté, sur environ 10%, ajoute des dessins simplistes et discrets de coraux dans des nuances de bleu
+- En bas sur environ 10%, ajoute un fond marin simpliste et discrets dans des nuances de bleu

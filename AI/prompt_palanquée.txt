@@ -1,0 +1,7 @@
+Génère une image avec les caractéristiques suivantes:
+
+- Style bande dessiné, légèrement sarcastique
+- Une image, format carré, en PNG avec un fond transparent
+- Illustrant une palanqué de façon humoristique
+- 2 plongeurs attachés ensemble dos à dos avec une corde qui fait le tour
+- Chacun regarde donc dans une direction différente

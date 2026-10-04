@@ -1,0 +1,11 @@
+Génère une image avec les caractéristiques suivantes:
+
+- Style bande dessiné, légèrement sarcastique
+- une image, format carré, en PNG avec un fond transparent
+- Il fait nuit
+- Un bébé, en couche, avec des palmes, un masque et un tuba aimerait entrer dans une discothèque qui s'appelle "Le PN1"
+- Deux videurs, mode armoire à glace, lui disent: "Monsieur, je crois que ca va pas être possible ce soir."
+- Assure toi que la forme du tuba soit réaliste
+- Les deux videurs font face au bébé, l'un les bras croisés, l'autre fait le signe "fin d'exercice" pour lui indiquer qu'il ne peut pas passer
+
+Le signe "fin d'exercice" se fait en formant une croix en croisant les avant-bras

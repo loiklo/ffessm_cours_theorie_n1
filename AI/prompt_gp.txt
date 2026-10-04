@@ -1,0 +1,9 @@
+Génère une image avec les caractéristiques suivantes:
+
+- Style bande dessiné, légèrement sarcastique
+- Une image, format carré, en PNG avec un fond transparent
+- Illustrant un Guide de palanquée de façon humoristique
+- Il y a 5 personnages: 1 poulpe et 4 plongeurs
+- Le poulpe est équipé d'une bouteille de plongée comme les plongeurs
+- Le poulpe est le guide de palanquée, identifie le avec les lettres GP
+- Dans ses tentacules, il retient les 4 plongeurs N1, identifié N1, qui ne font pas attention où ils vont

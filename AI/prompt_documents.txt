@@ -1,0 +1,6 @@
+Génère une image avec les caractéristiques suivantes:
+- une image, format carré, en PNG avec un fond transparent
+- style bande dessinée
+- un poulpe avec un masque et un tuba, avec 5 tentacules
+- dans chaque tentacule, ces 5 documents: Licence FFESSM, Carte de niveau 1 FFESSM, Certificat médical, le passeport de plongée FFESSM, le carnet de plongée
+- l'attitude du poule montre qu'il trouve qu'il y a beaucoup de documents

@@ -1,0 +1,78 @@
+name: Publier la présentation Marp
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Configurer GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Installer Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Installer Marp CLI
+        run: npm install --no-save @marp-team/marp-cli
+
+      - name: Créer le dossier de sortie
+        run: mkdir -p dist
+
+      - name: Générer HTML, PDF et PPTX
+        run: |
+          npx marp PN1_Règlementation.md \
+            --html \
+            --allow-local-files \
+            --output dist/index.html
+
+          npx marp PN1_Règlementation.md \
+            --pdf \
+            --allow-local-files \
+            --output dist/PN1_Règlementation.pdf
+
+          npx marp PN1_Règlementation.md \
+            --pptx \
+            --allow-local-files \
+            --output dist/PN1_Règlementation.pptx
+
+      - name: Copier les ressources
+        run: |
+          cp -r images dist/images
+
+      - name: Envoyer l'artefact GitHub Pages
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Déployer sur GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

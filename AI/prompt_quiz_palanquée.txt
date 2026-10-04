@@ -1,0 +1,17 @@
+Génère une image avec les caractéristiques suivantes:
+
+- Personnages style bande dessiné, légèrement sarcastique
+- en PNG, au format 16/9
+- Malgré le style bande dessiné, le thême est sérieux, reste précis sur ce qui suit.
+- L'image généré est un shéma qui illustre une plongée
+- Le profil de plongée est une plongée carré, on descend, on se balade à 20m, remonte doucement
+- Sur le trait qui symbolise la plongée, dessine une palanquée de plongeurs
+- Un "GP (serre-file)", puis un groupe de 3 plongeurs "N2" et 1 plongeur "N1", puis un "GP"
+- Le role de chaque plongeur est inscrit sur sa bouteille
+- La palanquée ne doit pas prendre trop de place sur le shéma
+- Tous se dirige vers la droite
+- Pour symboliser la profondeur maximum de 20m, utilise le style panneau de signalisation routière
+- Dispose les plongeurs de façon à ce qu'on voit qu'ils forment un groupe comme sur la pièce jointe
+- Les plongeurs ne doivent pas être les uns derrière les autres, mais en quinconce
+- Sur l'échelle des profondeurs à gauche, le 0m doit correspondre à la surface de l'eau
+- Positionne un bateau en surface au centre du graphique, ne dessine pas la côte

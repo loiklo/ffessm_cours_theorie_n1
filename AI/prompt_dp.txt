@@ -1,0 +1,9 @@
+Génère une image avec les caractéristiques suivantes:
+
+- Style bande dessiné, légèrement sarcastique
+- Une image, format carré, en PNG avec un fond transparent
+- Illustrant un "directeur de plongée" de façon humoristique
+- Il y a un bateau qui ressemble à un enclos à mouton
+- Le directeur de plongée, identifié par les lettres DP, ressemble à un berger avec un masque, des palmes et une bouteille de plongée
+- Dans l'enclos, il y a une dizaine de plongeurs derrière la barrière, impatient de vouloir se mettre à l'eau
+- Le DP compte les plongeurs et dit: "1, 2, 3, … 9, 10. Ok, il m'en faut le même nombre au retour".

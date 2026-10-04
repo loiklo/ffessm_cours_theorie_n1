@@ -1,0 +1,10 @@
+Génère une image avec les caractéristiques suivantes:
+
+- Style bande dessiné, légèrement sarcastique
+- en PNG, au format 16/9
+- Un plongeur, qui est limité à 20m par son niveau 1, triche en ayant accroché son ordinateur de plongée à un ballon de baudruche, lui permettant d'aller plus profondément que 20m, tout en s'assurant que son ordinateur indique 19m.
+- Sur le récif, on voit un panneau de limite de vitesse qui indique "20" pour signaler qu'on se trouve à 20m de profondeur
+- Le plongeur se trouve sous la limite des 20m
+- avec une corde, il traine son ordinateur de plongée, qui indique "19m", avec un ballon pour qu'il reste au dessus du plongeur
+- Trouve un style pour le plongeur qui montre qu'il est en train de tricher, avec un masque de brigand par exemple
+

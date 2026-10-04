@@ -1,0 +1,14 @@
+Génère une image avec les caractéristiques suivantes:
+
+- Style bande dessiné, légèrement sarcastique
+- Un banc avec deux personnages de dos
+- à gauche, un plongeur avec sa bouteille d'air sur le coté
+- à droite, un moniteur de ski de l'ESF avec ses skis sur le coté
+- Met le logos de chaque fédération dans le dos de chacun
+- Organise les bulles de sorte que le dialogue se lise naturellement dans le bon ordre
+
+Concernant les dialogues:
+- Le plongeur dit: "La FFESSM"
+Puis le skieur dit dans deux bulles séparées:
+- 'La hè-fef-euh-hè-ssè-ssè-mmeuh ?!'
+- 'Pfff, ces plongeurs... sinon "école de plongée française" c'était bien aussi...'

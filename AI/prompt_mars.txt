@@ -1,0 +1,10 @@
+Génère une image avec les caractéristiques suivantes:
+
+- Style bande dessiné, légèrement sarcastique
+- Définir le format d’image sur 16:9
+- On est sur la planète Mars
+- On voit la terre au loin
+- Un personnage en tenu d'astronaute avec une bouteille de plongée
+- Le personnage s'apprête à plonger dans un cratère martien asséché
+- Ajoute un rover à coté du cratère
+- Le personnage dit: "Houston, on a un problème..."

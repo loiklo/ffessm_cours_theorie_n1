@@ -1,0 +1,5 @@
+Génère un schéma de l'organisation de la FFESSM dans le style FFESSM avec:
+- Tout en haut, 'Fédération'
+- En dessous, 'Comité Régional'
+- En dessous, 'Comité Départemental (CoDep)'
+- En dessous, 'Association (Club associatif Loi 1901)' et 'SCA (Structure Commerciale Agréée)'
